@@ -33,9 +33,7 @@ Todos os exercícios devem ser resolvidos contendo ao menos um método além do 
    - Leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit. Utilize a fórmula de conversão: F = (9 * C + 160) / 5, onde F é a temperatura em Fahrenheit e C é a temperatura em Celsius.
 
 6. **Conversão de Dólar para Real**
-   - Elabore um programa que efetue a conversão do valor em dólar (US$) para o valor em real (R$). O algoritmo deve solicitar o valor da cotação do dólar e a quantidade de dólares disponíveis com o usuário. Considere que o valor do dólar está fixado
-
-em R$4,00.
+   - Elabore um programa que efetue a conversão do valor em dólar (US$) para o valor em real (R$). O algoritmo deve solicitar o valor da cotação do dólar e a quantidade de dólares disponíveis com o usuário. Considere que o valor do dólar está fixado em R$4,00.
 
 7. **Cálculo de Valor de Venda**
    - Faça um programa que receba o preço de custo de um produto e mostre o valor de venda. Sabe-se que o preço de custo receberá um acréscimo de acordo com um percentual informado pelo usuário.
