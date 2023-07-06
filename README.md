@@ -36,9 +36,7 @@
 10. **Soma dos Números de 1 a 15**
     - Escreva um algoritmo que calcule a soma dos números de 1 a 15. Utilize o comando de repetição `do while`.
 
-11. **Média de
-
-15 Números**
+11. **Média de 15 Números**
     - Escreva um algoritmo que leia 15 números do usuário. Ao final, exiba a média dos 15 números. Utilize o comando de repetição `for`.
 
 12. **Linha do Tempo**
